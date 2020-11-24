@@ -3,5 +3,19 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016271
   title: རྩོད་ལན་བློ་དམན་སྙིང་གི་གདུང་སེལ་ག་བུར་ཐིག་པའི་སྤུན་ཟླ
-  volume: ''
+  volume:
+    8e45d560019b4de49fefeadddb856343:
+      image_group_id: I00JW501150
+      title: Volume 1 of rtsod lan blo dman snying gi gdung sel ga bur thig pa'i spun
+        zla a refutation of the views of 'jam-mgon 'ju mi-pham-rgya-mtsho in the series
+        of polemical writings on the nature of sunyata and madhyamika philosophy
+      volume_number: 1
+      total_pages: 114
   author: ''
+ebook_metadata:
+  title: རྩོད་ལན་བློ་དམན་སྙིང་གི་གདུང་སེལ་ག་བུར་ཐིག་པའི་སྤུན་ཟླ
+  author: ''
+  sku: P006978
+  cover: cover.jpg
+  layers:
+  - pagination
